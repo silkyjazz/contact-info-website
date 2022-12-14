@@ -1,0 +1,17 @@
+* {
+    
+}
+header, footer {
+    background-color: black;
+    color: white;
+    position: relative;
+}
+h1 {
+
+}
+.nav{
+   display: flex;
+   justify-content: space-between;
+    align-content: space-between;
+}
+
